@@ -216,6 +216,10 @@ input:error, select:error, textarea:error{
 	background-color: #c71819;
 }
 
+/*input:invalid, select:invalid, textarea:invalid{
+	background-color: #c71819;
+} To make the borders appear uncomment out*/
+
 fieldset{
 	margin: 0.5em auto;
 	padding-bottom: 0.5em;
